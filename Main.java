@@ -12,6 +12,7 @@ public class Main {
         System.out.println(name4.charAt(2));
 
         //3.String 'Length'
+        
         String name5 = "Length";
         System.out.println(name5.length());
 
@@ -24,5 +25,6 @@ public class Main {
         //5.substring
         String name7 = "substring Of String";
         System.out.println(name7.substring(3, 9));
+        System.out.println("saloni");
     }    
 }
